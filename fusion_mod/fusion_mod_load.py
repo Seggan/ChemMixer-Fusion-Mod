@@ -42,7 +42,7 @@ modded_reactions={
             "temp max":3500,
             "temp min":3499,
             "results":["chlorine"]
-            }
+            },
     "h+h":{
             "reactants":["hydrogen"],
             "temp max":3500,
